@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azerothforev&label=Profile%20views&color=0e75b6&style=flat" alt="azerothforev" /> </p>
 
-- 🌱 I’m currently learning **DevOps and ML**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Algorithms and data structures, django**
+- 💬 Ask me about **Algorithms and data structures, FastAPI**
 
 - 📫 How to reach me: **telegram @azerothforev**
 
